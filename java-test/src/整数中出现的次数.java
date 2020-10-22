@@ -1,0 +1,27 @@
+//https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/
+public class 整数中出现的次数 {
+    //
+    static public int countDigitOne(int n) {
+        int res = 0;
+        int digit = 1;//位数
+        int high = n/10, cur = n%10,low = 0;
+        while (high != 0||cur != 0){
+            if (cur == 0){
+                res = high*digit+res;
+            } else if (cur == 1){
+                res = high*digit+low+1+res;
+            }else {
+                res = (high+1)*digit+res;
+            }
+            low += cur*digit;
+            cur = high%10;
+            high = high/10;
+            digit *= 10;
+        }
+        return res;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(countDigitOne(12));
+    }
+}

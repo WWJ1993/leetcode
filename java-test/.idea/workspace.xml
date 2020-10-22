@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b076dc68-80b3-4d22-a160-cc2aa45d4a84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fw0BQVF4h3coGL3zVckGs5BKxF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.重排链表">
+    <configuration name="两数相加" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="两数相加" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="整数中出现的次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="整数中出现的次数" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分割等和子集" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="分割等和子集" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="重排链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="重排链表" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="删除链表的倒数第N个节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="删除链表的倒数第N个节点" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="礼物的最大价值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="礼物的最大价值" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="无重复字符的最长子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="无重复字符的最长子串" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分割等和子集" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="分割等和子集" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="回文数" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="环形链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="环形链表" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="接雨水" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="接雨水" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="括号生成" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="括号生成" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="翻转字符串里的单词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="翻转字符串里的单词" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.重排链表" />
+        <item itemvalue="Application.删除链表的倒数第N个节点" />
+        <item itemvalue="Application.分割等和子集" />
+        <item itemvalue="Application.整数中出现的次数" />
+        <item itemvalue="Application.两数相加" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b076dc68-80b3-4d22-a160-cc2aa45d4a84" name="Default Changelist" comment="" />
+      <created>1597113712425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597113712425</updated>
+      <workItem from="1597113715615" duration="9141000" />
+      <workItem from="1600079724726" duration="7213000" />
+      <workItem from="1601343872312" duration="14373000" />
+      <workItem from="1601450472689" duration="43292000" />
+      <workItem from="1602655459416" duration="6369000" />
+      <workItem from="1602747258210" duration="23512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1601731654530">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="479" y="165" key="#com.intellij.ide.util.MemberChooser/0.23.1440.816@0.23.1440.816" timestamp="1601731654530" />
+    <state x="417" y="-873" key="#com.intellij.ide.util.MemberChooser/0.23.1440.822/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1601361258214" />
+    <state x="452" y="-793" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602814978537">
+      <screen x="-221" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="452" y="-793" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602814978537" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1603250768101">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="617" height="239" key="GridCell.Tab.0.bottom/0.23.1440.816/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602228465954" />
+    <state width="586" height="239" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1602073686952" />
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.23.1440.821/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602819582053" />
+    <state width="1398" height="135" key="GridCell.Tab.0.bottom/0.23.1440.822/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602744771989" />
+    <state width="1473" height="288" key="GridCell.Tab.0.bottom/0.23.1440.822/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1600158872434" />
+    <state width="1398" height="134" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1603032570470" />
+    <state width="1358" height="195" key="GridCell.Tab.0.bottom/0.23.1440.823/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1597117081175" />
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1602410939910" />
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1602506248023" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1603250768101" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1603250768100">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="617" height="239" key="GridCell.Tab.0.center/0.23.1440.816/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602228465953" />
+    <state width="586" height="239" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1602073686951" />
+    <state width="1398" height="229" key="GridCell.Tab.0.center/0.23.1440.821/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602819582052" />
+    <state width="1398" height="135" key="GridCell.Tab.0.center/0.23.1440.822/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602744771988" />
+    <state width="1473" height="288" key="GridCell.Tab.0.center/0.23.1440.822/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1600158872413" />
+    <state width="1398" height="134" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1603032570470" />
+    <state width="1358" height="195" key="GridCell.Tab.0.center/0.23.1440.823/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1597117081175" />
+    <state width="1398" height="229" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1602410939909" />
+    <state width="1398" height="229" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1602506248022" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1603250768100" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1603250768099">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="617" height="239" key="GridCell.Tab.0.left/0.23.1440.816/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602228465952" />
+    <state width="586" height="239" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1602073686951" />
+    <state width="1398" height="229" key="GridCell.Tab.0.left/0.23.1440.821/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602819582052" />
+    <state width="1398" height="135" key="GridCell.Tab.0.left/0.23.1440.822/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602744771988" />
+    <state width="1473" height="288" key="GridCell.Tab.0.left/0.23.1440.822/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1600158872407" />
+    <state width="1398" height="134" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1603032570469" />
+    <state width="1358" height="195" key="GridCell.Tab.0.left/0.23.1440.823/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1597117081174" />
+    <state width="1398" height="229" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1602410939908" />
+    <state width="1398" height="229" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1602506248022" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1603250768099" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1603250768100">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="617" height="239" key="GridCell.Tab.0.right/0.23.1440.816/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602228465953" />
+    <state width="586" height="239" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1602073686951" />
+    <state width="1398" height="229" key="GridCell.Tab.0.right/0.23.1440.821/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602819582053" />
+    <state width="1398" height="135" key="GridCell.Tab.0.right/0.23.1440.822/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602744771989" />
+    <state width="1473" height="288" key="GridCell.Tab.0.right/0.23.1440.822/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1600158872433" />
+    <state width="1398" height="134" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1603032570470" />
+    <state width="1358" height="195" key="GridCell.Tab.0.right/0.23.1440.823/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1597117081175" />
+    <state width="1398" height="229" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1602410939909" />
+    <state width="1398" height="229" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1602506248022" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1603250768100" />
+    <state width="1398" height="268" key="GridCell.Tab.1.bottom" timestamp="1603250767927">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="736" height="285" key="GridCell.Tab.1.bottom/0.23.1440.816/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602228386092" />
+    <state width="699" height="225" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1602073654977" />
+    <state width="1398" height="229" key="GridCell.Tab.1.bottom/0.23.1440.821/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602819582187" />
+    <state width="1473" height="288" key="GridCell.Tab.1.bottom/0.23.1440.822/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1600158872504" />
+    <state width="1398" height="331" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1603032560786" />
+    <state width="1398" height="229" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1602410940033" />
+    <state width="1398" height="229" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1602506248023" />
+    <state width="1398" height="268" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1603250767927" />
+    <state width="1398" height="268" key="GridCell.Tab.1.center" timestamp="1603250767927">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="736" height="285" key="GridCell.Tab.1.center/0.23.1440.816/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602228386091" />
+    <state width="699" height="225" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1602073654976" />
+    <state width="1398" height="229" key="GridCell.Tab.1.center/0.23.1440.821/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602819582186" />
+    <state width="1473" height="288" key="GridCell.Tab.1.center/0.23.1440.822/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1600158872485" />
+    <state width="1398" height="331" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1603032560785" />
+    <state width="1398" height="229" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1602410940032" />
+    <state width="1398" height="229" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1602506248023" />
+    <state width="1398" height="268" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1603250767927" />
+    <state width="1398" height="268" key="GridCell.Tab.1.left" timestamp="1603250767926">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="736" height="285" key="GridCell.Tab.1.left/0.23.1440.816/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602228386090" />
+    <state width="699" height="225" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1602073654975" />
+    <state width="1398" height="229" key="GridCell.Tab.1.left/0.23.1440.821/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602819582186" />
+    <state width="1473" height="288" key="GridCell.Tab.1.left/0.23.1440.822/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1600158872470" />
+    <state width="1398" height="331" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1603032560785" />
+    <state width="1398" height="229" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1602410940032" />
+    <state width="1398" height="229" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1602506248023" />
+    <state width="1398" height="268" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1603250767926" />
+    <state width="1398" height="268" key="GridCell.Tab.1.right" timestamp="1603250767927">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="736" height="285" key="GridCell.Tab.1.right/0.23.1440.816/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602228386091" />
+    <state width="699" height="225" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1602073654976" />
+    <state width="1398" height="229" key="GridCell.Tab.1.right/0.23.1440.821/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602819582187" />
+    <state width="1473" height="288" key="GridCell.Tab.1.right/0.23.1440.822/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1600158872503" />
+    <state width="1398" height="331" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1603032560785" />
+    <state width="1398" height="229" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1602410940033" />
+    <state width="1398" height="229" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1602506248023" />
+    <state width="1398" height="268" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1603250767927" />
+    <state x="0" y="-722" key="SettingsEditor" timestamp="1601344598334">
+      <screen x="-221" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="0" y="-722" key="SettingsEditor/0.23.1440.822/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1601344598334" />
+    <state x="278" y="-741" key="com.intellij.ide.util.TipDialog" timestamp="1602747258265">
+      <screen x="-221" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="278" y="-741" key="com.intellij.ide.util.TipDialog/0.23.1440.816/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1601450475756" />
+    <state x="278" y="-741" key="com.intellij.ide.util.TipDialog/0.23.1440.821/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602747258265" />
+    <state x="278" y="-741" key="com.intellij.ide.util.TipDialog/0.23.1440.822/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1601343873865" />
+    <state x="265" y="-741" key="com.intellij.ide.util.TipDialog/0.23.1440.822/-234.-1057.1920.1057@-234.-1057.1920.1057" timestamp="1600079731185" />
+    <state x="374" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1602655459635" />
+    <state x="374" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.823/-234.-1057.1920.1057@0.23.1440.823" timestamp="1597113718638" />
+    <state x="-81" y="-957" width="1315" height="780" key="dock-window-1" timestamp="1602294355879">
+      <screen x="-221" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-81" y="-957" width="1315" height="780" key="dock-window-1/0.23.1440.822/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1602294355879" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/整数中出现的次数.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/重排链表.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

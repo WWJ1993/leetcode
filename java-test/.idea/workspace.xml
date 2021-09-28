@@ -2,51 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b076dc68-80b3-4d22-a160-cc2aa45d4a84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01合并两个有序数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02颜色分类.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03部分排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04最大间距.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2有序数组的平方.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aaa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/一数组排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/在排序数组中查找元素的第一个和最后一个位置.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/子数组最大平均数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/排序/_01冒泡.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/排序/_02选择排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/排序/_03插入排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/排序/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05有序数组的平方.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/_01_47礼物的最大价值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/_02_121买卖股票的最佳时机.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/_03_05最长回文子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/_2021_8_4_611有效三角形的个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/_01移除链表元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/_02两数相加.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/_03_160相交链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/_04_分割链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/_05_234回文链表.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/META-INF/test.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/Pow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/Pow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/三数之和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/三数之和.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/两数相加.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/两数相加.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/买卖股票的最佳时机.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/买卖股票的最佳时机.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/分割等和子集.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/分割等和子集.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/删除节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/删除节点.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/删除链表的倒数第N个节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/删除链表的倒数第N个节点.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/回文数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/回文数.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/快速排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/快速排序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/括号生成.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/括号生成.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/接雨水.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/接雨水.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/整数中出现的次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/整数中出现的次数.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/整数反转.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/整数反转.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/无重复字符的最长子串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/无重复字符的最长子串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/_04最大间距.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/_04最大间距.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/排序/_03插入排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/排序/_03插入排序.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/test/最长回文子串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/最长回文子串.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/环形链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/环形链表.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/环形链表II.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/环形链表II.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/礼物的最大价值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/礼物的最大价值.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/移动零.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/移动零.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/编辑距离.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/编辑距离.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/翻转字符串里的单词.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/翻转字符串里的单词.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/螺旋矩阵.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/螺旋矩阵.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/重排链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/重排链表.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/颜色分类.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/颜色分类.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04最大间距.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04最大间距.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/最长回文子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/最长回文子串.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +48,53 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application._01冒泡">
-    <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="回文数" />
+  <component name="RunManager" selected="Application._03_05最长回文子串">
+    <configuration name="最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最长回文子串" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="子数组最大平均数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="子数组最大平均数" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="无重复字符的最长子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="无重复字符的最长子串" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分割等和子集" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="分割等和子集" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="在排序数组中查找元素的第一个和最后一个位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="在排序数组中查找元素的第一个和最后一个位置" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="接雨水" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="接雨水" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="括号生成" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="括号生成" />
       <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,61 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="子数组最大平均数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="子数组最大平均数" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="无重复字符的最长子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="无重复字符的最长子串" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="分割等和子集" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="分割等和子集" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="环形链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="环形链表" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="在排序数组中查找元素的第一个和最后一个位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="在排序数组中查找元素的第一个和最后一个位置" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="接雨水" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="接雨水" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="括号生成" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="括号生成" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_01冒泡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序._01冒泡" />
+    <configuration name="_01移除链表元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="链表._01移除链表元素" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="排序.*" />
+          <option name="PATTERN" value="链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,26 +148,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02颜色分类" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02颜色分类" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_03部分排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03部分排序" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_03插入排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序._03插入排序" />
+    <configuration name="_03_05最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="动态规划._03_05最长回文子串" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="排序.*" />
+          <option name="PATTERN" value="动态规划.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05有序数组的平方" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05有序数组的平方" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05_234回文链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="链表._05_234回文链表" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,10 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._03_05最长回文子串" />
+        <item itemvalue="Application.最长回文子串" />
+        <item itemvalue="Application._05_234回文链表" />
+        <item itemvalue="Application._05有序数组的平方" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application._01冒泡" />
-        <item itemvalue="Application._03部分排序" />
-        <item itemvalue="Application._02颜色分类" />
       </list>
     </recent_temporary>
   </component>
@@ -256,50 +228,63 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1627971416801">
+    <state x="452" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1628129665620">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1627899273059" />
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1627971416801" />
-    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1627971416799">
+    <state x="452" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1628129665620" />
+    <state width="699" height="289" key="GridCell.Tab.0.bottom" timestamp="1628650643162">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1627899273058" />
-    <state width="1398" height="271" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1627971416799" />
-    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1627971416798">
+    <state width="699" height="289" key="GridCell.Tab.0.bottom/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1628650643162" />
+    <state width="699" height="307" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1628429736046" />
+    <state width="699" height="289" key="GridCell.Tab.0.center" timestamp="1628650643161">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1627899273057" />
-    <state width="1398" height="271" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1627971416798" />
-    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1627971416800">
+    <state width="699" height="289" key="GridCell.Tab.0.center/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1628650643161" />
+    <state width="699" height="307" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1628429736045" />
+    <state width="699" height="289" key="GridCell.Tab.0.left" timestamp="1628650643160">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1627899273059" />
-    <state width="1398" height="271" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1627971416800" />
-    <state width="1398" height="271" key="GridCell.Tab.1.bottom" timestamp="1627971416805">
+    <state width="699" height="289" key="GridCell.Tab.0.left/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1628650643160" />
+    <state width="699" height="307" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1628429736044" />
+    <state width="699" height="289" key="GridCell.Tab.0.right" timestamp="1628650643161">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1627971416805" />
-    <state width="1398" height="271" key="GridCell.Tab.1.center" timestamp="1627971416804">
+    <state width="699" height="289" key="GridCell.Tab.0.right/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1628650643161" />
+    <state width="699" height="307" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1628429736045" />
+    <state width="699" height="307" key="GridCell.Tab.1.bottom" timestamp="1628650642985">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1627971416804" />
-    <state width="1398" height="271" key="GridCell.Tab.1.left" timestamp="1627971416803">
+    <state width="699" height="307" key="GridCell.Tab.1.bottom/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1628650642985" />
+    <state width="699" height="307" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1628429736048" />
+    <state width="699" height="307" key="GridCell.Tab.1.center" timestamp="1628650642985">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1627971416803" />
-    <state width="1398" height="271" key="GridCell.Tab.1.right" timestamp="1627971416805">
+    <state width="699" height="307" key="GridCell.Tab.1.center/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1628650642985" />
+    <state width="699" height="307" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1628429736047" />
+    <state width="699" height="307" key="GridCell.Tab.1.left" timestamp="1628650642984">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1627971416805" />
-    <state x="314" y="179" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1627912022451">
+    <state width="699" height="307" key="GridCell.Tab.1.left/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1628650642984" />
+    <state width="699" height="307" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1628429736046" />
+    <state width="699" height="307" key="GridCell.Tab.1.right" timestamp="1628650642985">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
+    <state width="699" height="307" key="GridCell.Tab.1.right/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1628650642985" />
+    <state width="699" height="307" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1628429736047" />
+    <state x="221" y="83" key="SettingsEditor" timestamp="1628046937976">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="221" y="83" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1628046937976" />
+    <state x="314" y="179" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1628129746524">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="314" y="179" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1628129746524" />
     <state x="314" y="179" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.832@0.23.1440.832" timestamp="1627912022451" />
-    <state x="521" y="198" width="604" height="490" key="find.popup" timestamp="1627561249617">
+    <state x="521" y="198" width="604" height="490" key="find.popup" timestamp="1628129043381">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="521" y="198" width="604" height="490" key="find.popup/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1627561249617" />
+    <state x="521" y="198" width="604" height="490" key="find.popup/0.23.1440.832/0.-1417.2560.1417@0.23.1440.832" timestamp="1628129043381" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -323,6 +308,86 @@
           <url>file://$PROJECT_DIR$/src/排序/_03插入排序.java</url>
           <line>38</line>
           <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/链表/_01移除链表元素.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/链表/_05_234回文链表.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/链表/_05_234回文链表.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/链表/_05_234回文链表.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/链表/_05_234回文链表.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/链表/_05_234回文链表.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/_03_05最长回文子串.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/_03_05最长回文子串.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/_03_05最长回文子串.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/_03_05最长回文子串.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/_03_05最长回文子串.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/_03_05最长回文子串.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/_03_05最长回文子串.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/_03_05最长回文子串.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/_03_05最长回文子串.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/_03_05最长回文子串.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="111" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -21,4 +21,32 @@ public class _04_分割链表 {
         curA.next = headB.next;
         return headA.next;
     }
+
+//    https://leetcode-cn.com/problems/partition-list-lcci/
+//    不保留相对位置
+
+//    public ListNode partition1(ListNode head, int x) {
+//        if (head == null) return head;
+//        ListNode newHead = new ListNode(0),preNode = newHead;
+//        newHead.next = head;
+//        while (head != null){
+//            if (head.val<x){
+//                //1、删除节点
+//                preNode.next = head.next;
+//                //1、将节点放到首部
+//                ListNode tmpNextHead = head.next;
+//                head.next = newHead.next;
+//                newHead.next = head;
+//                head = tmpNextHead;
+//            }else {
+//                preNode =  head;
+//                head = head.next;
+//            }
+//
+//        }
+//
+//        return newHead.next;
+//    }
+
+
 }

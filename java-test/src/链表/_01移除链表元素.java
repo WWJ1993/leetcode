@@ -1,7 +1,9 @@
 package 链表;
 
+import java.util.List;
+
 public class _01移除链表元素 {
-    public ListNode removeElements(ListNode head, int val) {
+    public ListNode removeElements1(ListNode head, int val) {
         if (head == null) return head;
         ListNode newHead = new ListNode(0);
         ListNode node = head;
@@ -12,12 +14,27 @@ public class _01移除链表元素 {
                     preNode.next = node;
                     preNode = node;
 
-
             }
             node = node.next;
         }
         preNode.next = null;
         return newHead;
+    }
+
+    public ListNode removeElements(ListNode head, int val) {
+        if (head == null) return head;
+        ListNode newHead = new ListNode(0);
+        ListNode preNode = newHead;
+        ListNode node = head;
+        while (node != null){
+            if (node.val != val){
+                preNode.next = node;
+                preNode = node;
+            }
+            node = node.next;
+        }
+        preNode.next = null;
+        return newHead.next;
     }
 
 

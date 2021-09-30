@@ -16,7 +16,7 @@ class Node {
 
 
 }
-public class _138_复制带随机指针的链表 {
+public class _07_138_复制带随机指针的链表 {
 
     //方法一：使用HashMap缓存节点
     // 时间复杂度 O（n），空间复杂度O（n）
@@ -68,7 +68,7 @@ public class _138_复制带随机指针的链表 {
 
     public static void main(String[] args) {
         Node head = new Node(0);
-        (new  _138_复制带随机指针的链表()).copyRandomList(head);
+        (new  _07_138_复制带随机指针的链表()).copyRandomList(head);
 
     }
 

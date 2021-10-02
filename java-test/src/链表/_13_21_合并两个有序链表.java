@@ -21,6 +21,7 @@ public class _13_21_合并两个有序链表 {
     }
 
     public static void main(String[] args) {
+
         (new _13_21_合并两个有序链表()).mergeTwoLists(new ListNode(1),new ListNode(2));
     }
 }

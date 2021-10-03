@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b076dc68-80b3-4d22-a160-cc2aa45d4a84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/test/DFS/_01_17_电话号码的字母组合.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/_01_17_电话号码的字母组合.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/_04_72_编辑距离.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_01_236_二叉树的最近公共祖先.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_02_99_恢复二叉搜索树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/_05_322_零钱兑换.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/高频题/_01_283_移动零.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/动态规划/_02_121买卖股票的最佳时机.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/动态规划/_02_121买卖股票的最佳时机.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/链表/_13_21_合并两个有序链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/链表/_13_21_合并两个有序链表.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/动态规划/_02_121买卖股票的最佳时机.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/动态规划/_02_121买卖股票的最佳时机.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/链表/_13_21_合并两个有序链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/_13_21_合并两个有序链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/DFS/_01_17_电话号码的字母组合.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/DFS/_01_17_电话号码的字母组合.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/链表/_06_25_K个一组翻转链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/链表/_06_25_K个一组翻转链表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/链表/_06_25_K个一组翻转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/_06_25_K个一组翻转链表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application._01_17_电话号码的字母组合">
+  <component name="RunManager" selected="Application._02_99_恢复二叉搜索树">
     <configuration name="括号生成" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="括号生成" />
       <module name="test" />
@@ -143,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_05最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="动态规划._03_05最长回文子串" />
+    <configuration name="_02_99_恢复二叉搜索树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="二叉树._02_99_恢复二叉搜索树" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="动态规划.*" />
+          <option name="PATTERN" value="二叉树.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._02_99_恢复二叉搜索树" />
         <item itemvalue="Application._01_17_电话号码的字母组合" />
         <item itemvalue="Application._13_21_合并两个有序链表" />
         <item itemvalue="Application._138_复制带随机指针的链表" />
         <item itemvalue="Application._05有序数组的平方" />
-        <item itemvalue="Application._03_05最长回文子串" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +218,7 @@
       <workItem from="1602655459416" duration="6369000" />
       <workItem from="1602747258210" duration="23512000" />
       <workItem from="1632817330166" duration="27720000" />
-      <workItem from="1633090837448" duration="2994000" />
+      <workItem from="1633090837448" duration="14564000" />
     </task>
     <servers />
   </component>

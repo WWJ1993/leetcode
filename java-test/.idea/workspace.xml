@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b076dc68-80b3-4d22-a160-cc2aa45d4a84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/动态规划/_06_53_最大子序和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/_07_300_最长递增子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/_08_1143_最长公共子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/_02_46_全排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/_09_198_打家劫舍.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/_10_213_打家劫舍II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/_11_740_删除并获得点数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/_12_55_跳跃游戏.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/_13_45跳跃游戏II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/_06_414_第三大的数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/_07_4_寻找两个正序数组的中位数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/_08_704_二分查找.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/高频题/_02_146_LRU缓存机制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/高频题/_03_70_爬楼梯.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/高频题/_04_746_使用最小花费爬楼梯.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/二叉树/_02_99_恢复二叉搜索树.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/二叉树/_02_99_恢复二叉搜索树.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/动态规划/_05_322_零钱兑换.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/动态规划/_05_322_零钱兑换.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +224,7 @@
       <workItem from="1632817330166" duration="27720000" />
       <workItem from="1633090837448" duration="14564000" />
       <workItem from="1633308863687" duration="108000" />
-      <workItem from="1633308979930" duration="4789000" />
+      <workItem from="1633308979930" duration="23300000" />
     </task>
     <servers />
   </component>

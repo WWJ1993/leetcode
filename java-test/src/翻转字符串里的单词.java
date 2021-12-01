@@ -48,7 +48,7 @@ public class 翻转字符串里的单词 {
     }
 
     public static void main(String[] args) {
-        String s3 = "  hello world!  ";
+        String s3 = "  hello world!  hhh ";
         System.out.println(reverseWords(s3));
     }
 }

@@ -3,5 +3,8 @@
     <pages>
         <page name='102. 二叉树的层序遍历'/>
         <page name='122. 买卖股票的最佳时机II'/>
+        <page name='26. 删除有序数组中的重复项'/>
+        <page name='509.斐波那契数斐波那契数'/>
+        <page name='80. 删除有序数组中的重复项 II'/>
     </pages>
 </playground>

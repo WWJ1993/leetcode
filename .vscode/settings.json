@@ -1,0 +1,14 @@
+{
+  "editor.quickSuggestions": {
+    "comments": "off",
+    "strings": "off",
+    "other": "off"
+  },
+  "java.project.sourcePaths": [
+    "数组/03.无重复最长子串",
+    "数组/88.合并两个有序数组",
+    "数组/15.三数之和",
+    "数组/01.两数之和",
+    "java-test/src"
+  ]
+}

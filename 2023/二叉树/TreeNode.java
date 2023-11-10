@@ -1,12 +1,13 @@
-package 二叉树;
-
 public class TreeNode {
-    public int val;
-    public TreeNode left;
-    public TreeNode right;
+    int val;
+    TreeNode left;
+    TreeNode right;
 
-    TreeNode(int x) {
-        val = x;
+    TreeNode() {
+    }
+
+    TreeNode(int val) {
+        this.val = val;
     }
 
     TreeNode(int val, TreeNode left, TreeNode right) {
